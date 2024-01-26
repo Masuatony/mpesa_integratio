@@ -1,2 +1,8 @@
 server:
   port: 9010
+mpesa:
+  daraja:
+    grant-type: client_credentials
+    consumer-secret: t7FpxGML5amUxIwG
+    consumer-key: rycqzQhEBKyPbTl5qfNW1YHz3Ok1xCx5
+    oauth-endpoint: https://sandbox.safaricom.co.ke/oauth/v1/generate
